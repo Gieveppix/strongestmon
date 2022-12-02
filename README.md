@@ -1,1 +1,1 @@
-Visit the app @ strongestmon.vercel.app
+Visit the app @ https://strongestmon.vercel.app/
